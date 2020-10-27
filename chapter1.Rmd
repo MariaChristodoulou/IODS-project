@@ -3,11 +3,21 @@
 
 *Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
 
+
+
+Hello all. This course is an excellent opportunity for me to learn more about R and how to use GitHub in my reasearch.
+Also, a great opportunity to meet new people from different fields!
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
 
 date()
 
 ```
-The text continues here.
+So thank you all for this course and looking forward to learn from you.
+
+I found this course by an email send by my doctoral program, MBDP.
+
+Here is my link to GitHub
+
+[My personal Link](https://mariachristodoulou.github.io/IODS-project/)
 
