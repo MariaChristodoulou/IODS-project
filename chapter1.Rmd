@@ -5,7 +5,7 @@
 
 
 
-Hello all. This course is an excellent opportunity for me to learn more about R and how to use GitHub in my reasearch.
+Hello all!!! This course is an excellent opportunity for me to learn more about R and how to use GitHub in my reasearch.
 Also, a great opportunity to meet new people from different fields!
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
@@ -17,7 +17,7 @@ So thank you all for this course and looking forward to learn from you.
 
 I found this course by an email send by my doctoral program, MBDP.
 
-Here is my link to GitHub
+Here is my link to GitHub:
 
-[My personal Link](https://mariachristodoulou.github.io/IODS-project/)
+[My personal Link](https://github.com/MariaChristodoulou/IODS-project)
 
